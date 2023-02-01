@@ -11,5 +11,16 @@ Tambien vimos algunos ejemplos de ejercicios mas complejos, llevando a cabo su e
 La idea es asentar una buena base de conocimiento previo para posteriormente en el futuro desarrollarlo de una manera eficaz.
 
 
+**** Actualización ****
+
+Hemos subido varios trabajos realizados.
+
+El primero ha sido la obtencion de datos de una empresa de cohetes espaciales llamada Spacex.
+
+Hemos filtrado ademas por los datos mas relevantes para nosotros.
+
+El segundo trabajo que hemos echo, es un EDA exploratorio.
+
+Calculando algunos datos y analizandolos para posteriormente usarlos.
 
 Un saludo.
