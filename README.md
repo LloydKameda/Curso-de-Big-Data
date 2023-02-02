@@ -24,3 +24,12 @@ El segundo trabajo que hemos echo, es un EDA exploratorio.
 Calculando algunos datos y analizandolos para posteriormente usarlos.
 
 Un saludo.
+
+
+**** Actualización ****
+
+Ejercicios de predicción de valores realizados, usando como ejemplo monedas virtuales.
+
+Tambien trabajos de inicialización al machine learning con el uso de scikit learn.
+
+Tareas relacionadas con mapas con el uso de folium, saber crear dichos mapas y como usar sus datos.
