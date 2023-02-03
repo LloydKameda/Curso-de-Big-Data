@@ -33,3 +33,13 @@ Ejercicios de predicción de valores realizados, usando como ejemplo monedas vir
 Tambien trabajos de inicialización al machine learning con el uso de scikit learn.
 
 Tareas relacionadas con mapas con el uso de folium, saber crear dichos mapas y como usar sus datos.
+
+
+
+**** Actualización ****
+
+Este día hemos trabajado sobre predicciones en machine learning, asi como de nuevo el uso de folium con visual interactive.
+
+Tambien repasamos ejercicios de python con el uso de SQL para refrescar los conocimientos.
+
+Programamos hasta averiguar los diferentes resultados a predecir para luego mostrarlos en tablas y mapas.
